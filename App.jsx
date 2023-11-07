@@ -28,4 +28,4 @@ document.appendChild(imgRobo)
     </p>
     </div>
   )
-}
+};
